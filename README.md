@@ -1,6 +1,6 @@
 # iManAIge-demo
 
-This project demonstrates the ability of iManAIge where we can cause a problem, iDetect would pick up the problems and send to iSolve to decompose the root cause of the problem and send a possible remedy to iDo.
+This project demonstrates the ability of iManAIge on NonStop where we can cause a problem, iDetect would pick up the problems and send to iSolve to decompose the root cause of the problem and send a possible remedy to iDo.
 
 ## Recommended IDE Setup
 
